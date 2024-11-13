@@ -1,0 +1,10 @@
+# Description
+User enters the city in in Canada, then a weather predictions of five days is displayed.  User can then enter another city name to get weather forecast of that city for five days. 
+
+# Link
+- link to github:   https://github.com/HungQuocDang/WeatherForecast
+
+- link to live page:    https://hungquocdang.github.io/WeatherForecast/
+
+# Screenshot
+![Alt text](Weather.PNG)
